@@ -1,0 +1,2 @@
+ros_basic
+-DCATKIN_DEVEL_PREFIX=/home/ajani/Apurv/devel -DCMAKE_INSTALL_PREFIX=/home/ajani/Apurv/install -G Unix Makefiles
